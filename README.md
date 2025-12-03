@@ -1,7 +1,7 @@
-## Assignment : 01
+# Assignment : 01
+
 ## Name : Shamim Mian
-## Email: (shamimmian91@gmail.com)
 
-Github link : [https://github.com/Dev-Shamim/ten-HTML-challenge.git]
+### Email: shamimmian91@gmail.com
 
-Live url : অ্যাসাইনমেন্টের লাইভ url লিংক দিন
+[ LIVE URL:](https://dev-shamim.github.io/ten-html-challenge/)
